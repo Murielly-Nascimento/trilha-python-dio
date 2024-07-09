@@ -1,12 +1,14 @@
 import os
 import sys
 
+ballet = ["vdnkjdsnfk", "dlfksdfhj", "doifhifh"]
+
 print(os)
 print(sys)
 
 a = "python"
 
-b = "ssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss"
+b = "ssssssssssssssssssssssssssssssssss"
 
 frutas = [
     "pera",
@@ -24,3 +26,6 @@ frutas = [
 ]
 
 carros = ["ferrari", "brasilia", "gol", "up"]
+
+
+ballet = ["oi", "gisele"]
